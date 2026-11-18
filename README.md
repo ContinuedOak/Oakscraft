@@ -1,2 +1,2 @@
 # Oakscraft
-a person unity minecraft like game
+a personal unity minecraft like game
